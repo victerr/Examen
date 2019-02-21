@@ -1,0 +1,4 @@
+public Asignatura():this("","")
+{
+	
+}
