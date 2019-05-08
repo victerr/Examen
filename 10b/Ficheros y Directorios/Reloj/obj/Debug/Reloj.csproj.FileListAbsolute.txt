@@ -1,0 +1,7 @@
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Reloj\bin\Debug\Reloj.exe.config
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Reloj\bin\Debug\Reloj.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Reloj\bin\Debug\Reloj.pdb
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Reloj\obj\Debug\Reloj.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Reloj\obj\Debug\Reloj.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Reloj\obj\Debug\Reloj.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Reloj\obj\Debug\Reloj.pdb

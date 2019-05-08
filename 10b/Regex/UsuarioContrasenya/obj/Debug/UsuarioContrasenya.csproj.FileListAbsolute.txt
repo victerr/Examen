@@ -1,0 +1,6 @@
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\UsuarioContrasenya\bin\Debug\UsuarioContrasenya.exe.config
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\UsuarioContrasenya\bin\Debug\UsuarioContrasenya.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\UsuarioContrasenya\bin\Debug\UsuarioContrasenya.pdb
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\UsuarioContrasenya\obj\Debug\UsuarioContrasenya.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\UsuarioContrasenya\obj\Debug\UsuarioContrasenya.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\UsuarioContrasenya\obj\Debug\UsuarioContrasenya.pdb

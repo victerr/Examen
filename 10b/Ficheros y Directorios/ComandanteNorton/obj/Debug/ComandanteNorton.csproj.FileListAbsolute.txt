@@ -1,0 +1,7 @@
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ComandanteNorton\bin\Debug\ComandanteNorton.exe.config
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ComandanteNorton\bin\Debug\ComandanteNorton.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ComandanteNorton\bin\Debug\ComandanteNorton.pdb
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ComandanteNorton\obj\Debug\ComandanteNorton.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ComandanteNorton\obj\Debug\ComandanteNorton.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ComandanteNorton\obj\Debug\ComandanteNorton.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ComandanteNorton\obj\Debug\ComandanteNorton.pdb

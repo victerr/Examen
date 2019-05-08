@@ -1,0 +1,7 @@
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Directorio\bin\Debug\Directorio.exe.config
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Directorio\bin\Debug\Directorio.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Directorio\bin\Debug\Directorio.pdb
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Directorio\obj\Debug\Directorio.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Directorio\obj\Debug\Directorio.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Directorio\obj\Debug\Directorio.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\Directorio\obj\Debug\Directorio.pdb

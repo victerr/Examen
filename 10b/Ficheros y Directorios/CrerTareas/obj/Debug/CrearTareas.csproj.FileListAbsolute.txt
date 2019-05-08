@@ -1,0 +1,7 @@
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\CrerTareas\bin\Debug\CrerTareas.exe.config
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\CrerTareas\bin\Debug\CrerTareas.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\CrerTareas\bin\Debug\CrerTareas.pdb
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\CrerTareas\obj\Debug\CrearTareas.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\CrerTareas\obj\Debug\CrearTareas.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\CrerTareas\obj\Debug\CrerTareas.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\CrerTareas\obj\Debug\CrerTareas.pdb

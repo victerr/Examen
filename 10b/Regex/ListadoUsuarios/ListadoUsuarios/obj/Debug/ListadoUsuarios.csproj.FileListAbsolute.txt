@@ -1,0 +1,7 @@
+E:\WORKSPACE\C#\TEMA 11\ListadoUsuarios\ListadoUsuarios\bin\Debug\ListadoUsuarios.exe.config
+E:\WORKSPACE\C#\TEMA 11\ListadoUsuarios\ListadoUsuarios\bin\Debug\ListadoUsuarios.exe
+E:\WORKSPACE\C#\TEMA 11\ListadoUsuarios\ListadoUsuarios\bin\Debug\ListadoUsuarios.pdb
+E:\WORKSPACE\C#\TEMA 11\ListadoUsuarios\ListadoUsuarios\obj\Debug\ListadoUsuarios.csprojResolveAssemblyReference.cache
+E:\WORKSPACE\C#\TEMA 11\ListadoUsuarios\ListadoUsuarios\obj\Debug\ListadoUsuarios.csproj.CoreCompileInputs.cache
+E:\WORKSPACE\C#\TEMA 11\ListadoUsuarios\ListadoUsuarios\obj\Debug\ListadoUsuarios.exe
+E:\WORKSPACE\C#\TEMA 11\ListadoUsuarios\ListadoUsuarios\obj\Debug\ListadoUsuarios.pdb

@@ -1,0 +1,7 @@
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ValidarNombreUsuario\bin\Debug\ValidarNombreUsuario.exe.config
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ValidarNombreUsuario\bin\Debug\ValidarNombreUsuario.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ValidarNombreUsuario\bin\Debug\ValidarNombreUsuario.pdb
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ValidarNombreUsuario\obj\Debug\ValidarNombreUsuario.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ValidarNombreUsuario\obj\Debug\ValidarNombreUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ValidarNombreUsuario\obj\Debug\ValidarNombreUsuario.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ValidarNombreUsuario\obj\Debug\ValidarNombreUsuario.pdb

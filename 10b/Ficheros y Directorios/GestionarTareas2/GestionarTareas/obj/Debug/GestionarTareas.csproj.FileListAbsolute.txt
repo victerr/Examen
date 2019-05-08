@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2015\Projects\GestionarTareas\GestionarTareas\bin\Debug\GestionarTareas.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\GestionarTareas\GestionarTareas\bin\Debug\GestionarTareas.exe
+c:\users\usuario\documents\visual studio 2015\Projects\GestionarTareas\GestionarTareas\bin\Debug\GestionarTareas.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\GestionarTareas\GestionarTareas\obj\Debug\GestionarTareas.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\GestionarTareas\GestionarTareas\obj\Debug\GestionarTareas.exe
+c:\users\usuario\documents\visual studio 2015\Projects\GestionarTareas\GestionarTareas\obj\Debug\GestionarTareas.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\GestionarTareas2\GestionarTareas\bin\Debug\GestionarTareas.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\GestionarTareas2\GestionarTareas\obj\Debug\GestionarTareas.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\GestionarTareas2\GestionarTareas\obj\Debug\GestionarTareas.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\GestionarTareas2\GestionarTareas\bin\Debug\GestionarTareas.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\GestionarTareas2\GestionarTareas\bin\Debug\GestionarTareas.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\GestionarTareas2\GestionarTareas\obj\Debug\GestionarTareas.csprojResolveAssemblyReference.cache

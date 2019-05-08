@@ -1,0 +1,148 @@
+10/03/2017 0:00:00;ir al caribe
+10/04/2017 0:00:00;ir al caribe
+10/05/2017 0:00:00;ir al caribe
+10/06/2017 0:00:00;ir al caribe
+10/07/2017 0:00:00;ir al caribe
+10/08/2017 0:00:00;ir al caribe
+10/09/2017 0:00:00;ir al caribe
+10/10/2017 0:00:00;ir al caribe
+10/11/2017 0:00:00;ir al caribe
+10/12/2017 0:00:00;ir al caribe
+10/03/2017 0:00:00;hacer la compra
+17/03/2017 0:00:00;hacer la compra
+24/03/2017 0:00:00;hacer la compra
+31/03/2017 0:00:00;hacer la compra
+07/04/2017 0:00:00;hacer la compra
+14/04/2017 0:00:00;hacer la compra
+21/04/2017 0:00:00;hacer la compra
+28/04/2017 0:00:00;hacer la compra
+05/05/2017 0:00:00;hacer la compra
+12/05/2017 0:00:00;hacer la compra
+19/05/2017 0:00:00;hacer la compra
+26/05/2017 0:00:00;hacer la compra
+02/06/2017 0:00:00;hacer la compra
+09/06/2017 0:00:00;hacer la compra
+16/06/2017 0:00:00;hacer la compra
+23/06/2017 0:00:00;hacer la compra
+30/06/2017 0:00:00;hacer la compra
+07/07/2017 0:00:00;hacer la compra
+14/07/2017 0:00:00;hacer la compra
+21/07/2017 0:00:00;hacer la compra
+28/07/2017 0:00:00;hacer la compra
+04/08/2017 0:00:00;hacer la compra
+11/08/2017 0:00:00;hacer la compra
+18/08/2017 0:00:00;hacer la compra
+25/08/2017 0:00:00;hacer la compra
+01/09/2017 0:00:00;hacer la compra
+08/09/2017 0:00:00;hacer la compra
+15/09/2017 0:00:00;hacer la compra
+22/09/2017 0:00:00;hacer la compra
+29/09/2017 0:00:00;hacer la compra
+06/10/2017 0:00:00;hacer la compra
+13/10/2017 0:00:00;hacer la compra
+20/10/2017 0:00:00;hacer la compra
+27/10/2017 0:00:00;hacer la compra
+03/11/2017 0:00:00;hacer la compra
+10/11/2017 0:00:00;hacer la compra
+17/11/2017 0:00:00;hacer la compra
+24/11/2017 0:00:00;hacer la compra
+01/12/2017 0:00:00;hacer la compra
+08/12/2017 0:00:00;hacer la compra
+15/12/2017 0:00:00;hacer la compra
+22/12/2017 0:00:00;hacer la compra
+29/12/2017 0:00:00;hacer la compra
+10/03/2017 0:00:00;ir a la piscina
+17/03/2017 0:00:00;ir a la piscina
+24/03/2017 0:00:00;ir a la piscina
+31/03/2017 0:00:00;ir a la piscina
+07/04/2017 0:00:00;ir a la piscina
+14/04/2017 0:00:00;ir a la piscina
+21/04/2017 0:00:00;ir a la piscina
+28/04/2017 0:00:00;ir a la piscina
+05/05/2017 0:00:00;ir a la piscina
+12/05/2017 0:00:00;ir a la piscina
+19/05/2017 0:00:00;ir a la piscina
+26/05/2017 0:00:00;ir a la piscina
+02/06/2017 0:00:00;ir a la piscina
+09/06/2017 0:00:00;ir a la piscina
+16/06/2017 0:00:00;ir a la piscina
+23/06/2017 0:00:00;ir a la piscina
+30/06/2017 0:00:00;ir a la piscina
+07/07/2017 0:00:00;ir a la piscina
+14/07/2017 0:00:00;ir a la piscina
+21/07/2017 0:00:00;ir a la piscina
+28/07/2017 0:00:00;ir a la piscina
+04/08/2017 0:00:00;ir a la piscina
+11/08/2017 0:00:00;ir a la piscina
+18/08/2017 0:00:00;ir a la piscina
+25/08/2017 0:00:00;ir a la piscina
+01/09/2017 0:00:00;ir a la piscina
+08/09/2017 0:00:00;ir a la piscina
+15/09/2017 0:00:00;ir a la piscina
+22/09/2017 0:00:00;ir a la piscina
+29/09/2017 0:00:00;ir a la piscina
+06/10/2017 0:00:00;ir a la piscina
+13/10/2017 0:00:00;ir a la piscina
+20/10/2017 0:00:00;ir a la piscina
+27/10/2017 0:00:00;ir a la piscina
+03/11/2017 0:00:00;ir a la piscina
+10/11/2017 0:00:00;ir a la piscina
+17/11/2017 0:00:00;ir a la piscina
+24/11/2017 0:00:00;ir a la piscina
+01/12/2017 0:00:00;ir a la piscina
+08/12/2017 0:00:00;ir a la piscina
+15/12/2017 0:00:00;ir a la piscina
+22/12/2017 0:00:00;ir a la piscina
+29/12/2017 0:00:00;ir a la piscina
+12/03/2017 0:00:00;Hacer facturacion
+12/04/2017 0:00:00;Hacer facturacion
+12/05/2017 0:00:00;Hacer facturacion
+12/06/2017 0:00:00;Hacer facturacion
+12/07/2017 0:00:00;Hacer facturacion
+12/08/2017 0:00:00;Hacer facturacion
+12/09/2017 0:00:00;Hacer facturacion
+12/10/2017 0:00:00;Hacer facturacion
+12/11/2017 0:00:00;Hacer facturacion
+12/12/2017 0:00:00;Hacer facturacion
+19/03/2017 0:00:00;Ir a clase
+26/03/2017 0:00:00;Ir a clase
+02/04/2017 0:00:00;Ir a clase
+09/04/2017 0:00:00;Ir a clase
+16/04/2017 0:00:00;Ir a clase
+23/04/2017 0:00:00;Ir a clase
+30/04/2017 0:00:00;Ir a clase
+07/05/2017 0:00:00;Ir a clase
+14/05/2017 0:00:00;Ir a clase
+21/05/2017 0:00:00;Ir a clase
+28/05/2017 0:00:00;Ir a clase
+04/06/2017 0:00:00;Ir a clase
+11/06/2017 0:00:00;Ir a clase
+18/06/2017 0:00:00;Ir a clase
+25/06/2017 0:00:00;Ir a clase
+02/07/2017 0:00:00;Ir a clase
+09/07/2017 0:00:00;Ir a clase
+16/07/2017 0:00:00;Ir a clase
+23/07/2017 0:00:00;Ir a clase
+30/07/2017 0:00:00;Ir a clase
+06/08/2017 0:00:00;Ir a clase
+13/08/2017 0:00:00;Ir a clase
+20/08/2017 0:00:00;Ir a clase
+27/08/2017 0:00:00;Ir a clase
+03/09/2017 0:00:00;Ir a clase
+10/09/2017 0:00:00;Ir a clase
+17/09/2017 0:00:00;Ir a clase
+24/09/2017 0:00:00;Ir a clase
+01/10/2017 0:00:00;Ir a clase
+08/10/2017 0:00:00;Ir a clase
+15/10/2017 0:00:00;Ir a clase
+22/10/2017 0:00:00;Ir a clase
+29/10/2017 0:00:00;Ir a clase
+05/11/2017 0:00:00;Ir a clase
+12/11/2017 0:00:00;Ir a clase
+19/11/2017 0:00:00;Ir a clase
+26/11/2017 0:00:00;Ir a clase
+03/12/2017 0:00:00;Ir a clase
+10/12/2017 0:00:00;Ir a clase
+17/12/2017 0:00:00;Ir a clase
+24/12/2017 0:00:00;Ir a clase
+31/12/2017 0:00:00;Ir a clase

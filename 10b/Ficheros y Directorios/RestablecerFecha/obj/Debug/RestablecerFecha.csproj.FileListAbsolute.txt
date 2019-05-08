@@ -1,0 +1,6 @@
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\RestablecerFecha\obj\Debug\RestablecerFecha.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\RestablecerFecha\bin\Debug\RestablecerFecha.exe.config
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\RestablecerFecha\bin\Debug\RestablecerFecha.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\RestablecerFecha\bin\Debug\RestablecerFecha.pdb
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\RestablecerFecha\obj\Debug\RestablecerFecha.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\RestablecerFecha\obj\Debug\RestablecerFecha.pdb

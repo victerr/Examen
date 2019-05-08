@@ -1,0 +1,7 @@
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ListaDeFicheros\bin\Debug\ListaDeFicheros.exe.config
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ListaDeFicheros\bin\Debug\ListaDeFicheros.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ListaDeFicheros\bin\Debug\ListaDeFicheros.pdb
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ListaDeFicheros\obj\Debug\ListaDeFicheros.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ListaDeFicheros\obj\Debug\ListaDeFicheros.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ListaDeFicheros\obj\Debug\ListaDeFicheros.exe
+C:\Users\Victor\Desktop\DAW\Programacion\2ª Eval\POO\Ejercicios\POO\ListaDeFicheros\obj\Debug\ListaDeFicheros.pdb
